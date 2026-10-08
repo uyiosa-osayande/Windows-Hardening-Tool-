@@ -5,6 +5,7 @@ PowerShell • Windows 11 Security • Baseline Auditing • Automated Remediati
 WinGuard is a PowerShell-based Windows 11 auditing and hardening tool built for my IS2083 Advanced Scripting course.
 The tool checks important Windows security settings, identifies weak configurations, applies supported fixes, and produces a report showing the system's security posture.
 It was developed and tested inside a Windows 11 Enterprise virtual machine using Oracle VirtualBox.
+
 🔍 What It Does
 🔎 Audit	Checks the current system configuration without changing anything
 🛠️ Apply	Applies supported security fixes and then re-audits the system
@@ -14,7 +15,7 @@ It was developed and tested inside a Windows 11 Enterprise virtual machine using
 The tool organizes checks into two categories:
 - 🟦 Microsoft Security Baseline
 - 🟪 Advanced Hardening
-🛡️ Security Controls
+
 🟦 Microsoft Security Baseline
 - ✅ SMBv1 disabled
 - ✅ SMB server signing required
@@ -42,7 +43,6 @@ Rating: STRONG
 The project also generates timestamped reports that make it easy to compare the system before and after hardening.
 
 💻 Technologies Used
-Technology	How I Used It
 PowerShell	Security checks, remediation, scoring, and reporting
 Windows 11 Enterprise	Target operating system
 Oracle VirtualBox	Safe testing environment
