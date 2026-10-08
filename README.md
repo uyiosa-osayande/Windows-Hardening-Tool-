@@ -109,3 +109,5 @@ Built with PowerShell, curiosity, and a lot of debugging. 💻✨
 
 <img width="995" height="564" alt="Screenshot 2026-10-08 111842" src="https://github.com/user-attachments/assets/cec148b0-88e2-462c-9318-a59c55ef955e" />
 <img width="1161" height="757" alt="Screenshot 2026-10-07 163441" src="https://github.com/user-attachments/assets/76c37f61-2a66-4260-87f7-8695f8a5e579" />
+<img width="568" height="438" alt="Screenshot 2026-10-08 112148" src="https://github.com/user-attachments/assets/39ee7670-f890-4e68-a309-59eded15d2ff" />
+
